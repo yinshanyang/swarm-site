@@ -44,7 +44,7 @@ export default () => (
         Instead, here are some of our exploratory work that we have worked on previously. We recommend starting with <a className={classes.link} href='https://medium.com/@yinshanyang/isochronic-singapore-a-gentle-introduction-to-isochrone-maps-9cceebc72f60'>Isochronic Singapore</a>, a collection of analyses and an online application which focuses on commuter travel and accessibility in Singapore.
       </p>
       <p className={classes.blurb}>
-        Or explore the social network of corporate Singapore in <a className={classes.link} href='https://static.swarm.is/corporate.cosmograph/live/'>Corporate Cosmograph</a>. And lastly, one of our earliest works, <a className={classes.link} href='https://static.swarm.is/ge2011/'>GE2011 Tracker</a>, tracks the national agenda online during the Singapore general elections in 2011.
+        Or explore the social network of corporate Singapore in <a className={classes.link} href='https://static.swarm.is/corporate.cosmograph/live/'>Corporate Cosmograph</a>. And lastly, one of our earliest works, <a className={classes.link} href='https://techwireasia.com/2011/04/visualisation-chart-maps-singapore-election-buzz-online/'>GE2011 Tracker</a>, tracks the national agenda online during the Singapore general elections in 2011.
       </p>
 
       <h3 className={classes.header}>
