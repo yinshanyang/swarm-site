@@ -19,10 +19,10 @@ const classes = {
 export default () => (
   <main className={classes.main}>
     <section className={classes.titleSection}>
-      <h1 className={classes.title}>
-        <span className='animation-fade-0 o-0'>An independent data visualisation studio based in Singapore.</span>{` `}
-        <span className='animation-fade-1 o-0 fw4'>We build tools that allow us to better think about and understand the world around us.</span>
-      </h1>
+      <div className={classes.title}>
+        <h1 className='di f2 f1-ns animation-fade-0 o-0'>An independent data visualisation studio based in Singapore.</h1>{` `}
+        <h2 className='di f2 f1-ns fw4 animation-fade-1 o-0'>We build tools that allow us to better think about and understand the world around us.</h2>
+      </div>
     </section>
 
     <section className={classes.section}>
