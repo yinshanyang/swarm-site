@@ -32,6 +32,7 @@ const Head = () => (
     <meta name='description' content='An independent data visualization studio based in Singapore. We build tools that allow us to better think about and understand the world around us.' />
     <meta name='keywords' content='swarm, data visualisation, data visualization, singapore, dashboard, cartography' />
     <meta name='format-detection' content='telephone=no' />
+    <link rel='canonical' href='https://swarm.is/' />
     <html className='h-100' />
     <body className={classes.body} />
     <style>{`
