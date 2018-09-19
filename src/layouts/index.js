@@ -54,16 +54,16 @@ const Head = () => (
       }
 
       .animation-fade-0 {
-        -webkit-animation: fade 1s 0s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
-      	-moz-animation:    fade 1s 0s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
-      	-o-animation:      fade 1s 0s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
-      	animation:         fade 1s 0s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+        -webkit-animation: fade 1s 1s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+      	-moz-animation:    fade 1s 1s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+      	-o-animation:      fade 1s 1s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+      	animation:         fade 1s 1s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
       }
       .animation-fade-1 {
-        -webkit-animation: fade 1s 0.5s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
-      	-moz-animation:    fade 1s 0.5s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
-      	-o-animation:      fade 1s 0.5s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
-      	animation:         fade 1s 0.5s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+        -webkit-animation: fade 1s 2s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+      	-moz-animation:    fade 1s 2s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+      	-o-animation:      fade 1s 2s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
+      	animation:         fade 1s 2s forwards cubic-bezier(0.6, 0.2, 0.1, 1);
       }
 
     `}</style>
