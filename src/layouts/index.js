@@ -30,7 +30,7 @@ const Head = () => (
   <Helmet>
     <title>Swarm — An Independent Data Visualization Studio</title>
     <meta name='description' content='An independent data visualization studio based in Singapore. We build tools that allow us to better think about and understand the world around us.' />
-    <meta name='keywords' content='swarm, data visualisation, data visualization, singapore, dashboard, cartography' />
+    <meta name='keywords' content='swarm, data visualisation, data visualization, studio, agency, singapore, dashboard, cartography' />
     <meta name='format-detection' content='telephone=no' />
     <link rel='canonical' href='https://swarm.is/' />
     <html className='h-100' />
