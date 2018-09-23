@@ -2,8 +2,8 @@ import React from 'react'
 
 import 'ui-tachyons-light'
 
-import Head from './Head'
-import Header from './Header'
+import Head from './head'
+import Header from './header'
 
 export default ({ children }) => (
   <div>
