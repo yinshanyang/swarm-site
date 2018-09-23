@@ -4,9 +4,10 @@
   "version": "1.0.0",
   "author": "Yin Shanyang <me@yinshanyang.com>",
   "dependencies": {
-    "gatsby": "^1.9.127",
-    "gatsby-link": "^1.6.30",
+    "gatsby": "^2.0.7",
     "gatsby-plugin-react-helmet": "^1.0.8",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
     "ui-tachyons-light": "github:ocd-sg/ui-tachyons-light"
   },
   "keywords": [
