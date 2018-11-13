@@ -83,11 +83,11 @@ export default () => (
         Contact
       </h3>
       <p className={classes.body}>
-        49 Jalan Pemimpin #02-08<br />
-        Singapore 577203
+        52 Jalan Kelabu Asap<br />
+        Singapore 278245 
       </p>
       <p className={classes.body}>
-        (65) 6354 3006
+        (65) 6957 5100 
       </p>
       <p className={classes.body}>
         <a className={classes.link} href='mailto:hello@swarm.is'>hello@swarm.is</a>
